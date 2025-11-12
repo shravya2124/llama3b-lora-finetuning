@@ -1,4 +1,4 @@
-# 🦙 LLaMA 3 LoRA Fine-Tuning with Unsloth
+# 🦙 LLaMA 3 -3b- LoRA Fine-Tuning with Unsloth
 
 This project fine-tunes the `unsloth/Llama-3.2-3B-Instruct` model using LoRA and 4-bit quantization (QLoRA style).
 
